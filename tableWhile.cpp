@@ -7,7 +7,7 @@ int main(){
 
     while (i<=range)
     {
-        cout<<table<<" x "<<i<<" = "<<table*i<<endl;
+        cout<<table<<" x "<<i<<" = "<<table*i<<endl; //output
         i++;
     }
     
