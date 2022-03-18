@@ -37,7 +37,7 @@ int main()
         cin >> N;
 
         Solution ob;
-       	cout <<  ob.factorSum(N) << "\n";
+       	cout <<  ob.factorSum(N) << "\n"; //funciton call
    
     }
     return 0;
