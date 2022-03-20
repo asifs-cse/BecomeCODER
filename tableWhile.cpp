@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
     int table, range,i=1;
-    cin>>table>>range;
+    cin>>table>>range;//input table data
 
     while (i<=range)
     {
