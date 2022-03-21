@@ -12,6 +12,6 @@ int main(){
     }
 
     cout<<"Ashok = "<<ashok;
-    cout<<"\nTevit = "<<tevit;
+    cout<<"\nTevit = "<<tevit; //print
     return 0;
 }
