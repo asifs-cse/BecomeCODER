@@ -7,7 +7,7 @@ int main(){
 
     for(int i=0; i<14; i++){
         if(balls[i]%2==0){
-            ashok++;
+            ashok++; //increment
         }else tevit++;
     }
 
