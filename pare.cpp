@@ -2,10 +2,9 @@
 using namespace std;
 
 int main(){
-    int roll;
-    cout<<"Enter your roll: ";
-    cin>>roll;
+    vector<pair<string,int>> vr1;
+    vr1.push_back("asif", 123);
     
-    cout<<roll;
+
     return 0;
 }

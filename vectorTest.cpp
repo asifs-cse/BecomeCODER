@@ -5,7 +5,7 @@ int main(){
     vector<int> ve;
     ve.push_back(10);
     ve.push_back(20);
-    ve.push_back(30);
+    ve.emplace_back(30);
 
     for(int i=0;i<ve.size();i++)cout<<ve[i]<<" ";
     ve.pop_back();
