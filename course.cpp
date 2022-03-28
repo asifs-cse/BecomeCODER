@@ -6,7 +6,7 @@ int main(){
 
     cout<<"If you are become coder student, press 1";
     cin>>bc;
-
+    //check condition
     if(bc==1){
         cout<<"Your fees is 3000";
     }else{
